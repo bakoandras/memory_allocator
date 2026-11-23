@@ -1,2 +1,2 @@
 # memory_allocator
-Memory allocator made in c
+Memory allocator made in c++, to be extended for Renesas uC
